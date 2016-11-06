@@ -1,0 +1,9 @@
+/Users/SEIYA/.rbenv/versions/2.2.0/bin/ruby -r ./siteconf20161106-63252-1628m0y.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
